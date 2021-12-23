@@ -43,4 +43,9 @@ h3{
     color: rgb(8, 6, 1);
     font-size: 1rem;
 }
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
