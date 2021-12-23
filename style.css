@@ -1,10 +1,17 @@
 body{
-    background-color: burlywood;
+    background-image: url(./fondos/tex2.png);
     color: chocolate;
 }
 .COLOR{
-    background-color: cornsilk;
+    background-color: whitesmoke;
 }
-.MARGIN{
-    margin: 35px;
+.logo{
+    width: 150px;
 }
+.mr{
+    margin-right: 60px;
+}
+li a:hover{
+    font-weight: bold;
+}
+
