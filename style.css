@@ -22,4 +22,25 @@ li a:hover{
     font-family: 'MonteCarlo', cursive;
     font-size: 2.5rem;
 }
+.insta img{
+    width: 25px;
+}
+.wapp img{
+    width: 25px;
+}
+.wapp{
+    display: flex;
+    justify-content: right;
+    align-items: center;   
+}
+.insta{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(8, 6, 1);
+    font-size: 1rem;
+}
 
